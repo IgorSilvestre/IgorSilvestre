@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <h3>Tecnologias do meu dia a dia</h3>
 <div style="display: flex; ">
   <img align="center" alt="Lucas-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="margin-right: 10px;">
-  <img align="center" alt="Lucas-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin-right: 10px;">
