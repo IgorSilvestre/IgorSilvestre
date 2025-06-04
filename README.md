@@ -8,7 +8,7 @@ Sou daqueles malucos que se sente realizado batendo a cabeça com coisas complet
 
 Trabalhei em
 - plataformas de redes sociais conectando pessoas do ramo da engenharia, arquitetura e design
-- logística digital com mapeamento de clientes e alto volume de produtos
+- logística de clientes e alto volume de produtos
 - impulsionando o empreendedor brasileiro no e-commerce
 - tecnologia de mapeamento geográfico e soluções de estruturação e controle para o nosso governo
 - entre muitas outras coisas...
