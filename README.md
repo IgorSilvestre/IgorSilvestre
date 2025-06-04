@@ -2,7 +2,7 @@
 
 #### Quem eu sou:
 
-Sou desenvolvedor web full-stack e eu absolutamente preciso de desafios para me sentir vivo. Gosto de aprender coisas fora do comum e que me fazem entender cada vez mais o mundo, principalmente o de tecnologia. Sou daqueles malucos que se sente realizado batendo a cabeça com coisas completamente fora da minha zona de conforto, sabe?
+Sou desenvolvedor _web full-stack_ e eu absolutamente preciso de desafios para me *sentir vivo*. Gosto de aprender coisas fora do comum e que me fazem entender cada vez mais o mundo, principalmente o de tecnologia. Sou daqueles malucos que se sente realizado batendo a cabeça com coisas completamente fora da minha zona de conforto, sabe?
 
 Trabalhei em plataformas de redes sociais conectando pessoas do ramo da engenharia, arquitetura e design, logística digital com mapeamento de clientes e alto volume de produtos, impulsionando o empreendedor brasileiro no e-commerce assim como tecnologia de mapeamento geográfico e soluções de estruturação e controle para o nosso governo, entre muitas outras coisas.
 
