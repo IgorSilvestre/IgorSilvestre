@@ -22,27 +22,10 @@ A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacio
 
 Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geografico com desenho e calculo de geometrias, mas não se deixe enganar por ser um singelo desenvolvedor javascript, estou disposto a entrar em toda a complexidade de código baixo nível como c++, rust ou a estruturada vida do java. Esses são os meus objetivos no futuro visível.
 
-
-
+<br/>
 Se você tem um projeto interessante que esteja precisando de um maluco como eu, me chama, minhas infos estão lááá em baixo.
+<br/>
 
-
-
-
-<!--
-**IgorSilvestre/IgorSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
   <div style="flex: 1; min-width: 300px; margin-left: 20px;">
     <a href="https://github.com/igorsilvestre">
