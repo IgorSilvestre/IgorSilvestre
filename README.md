@@ -64,7 +64,7 @@ Se você tem um projeto interessante que esteja precisando de um maluco como eu,
 <br/>
 <br/>
 
-#### Tem um projeto desafiante para fazer?
+#### Vamos trabalhar juntos?
 <div>
 <a href = "mailto:igor@igorsilvestre.dev"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/igor-silvestre-118b79214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
