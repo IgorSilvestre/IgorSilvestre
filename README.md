@@ -22,6 +22,10 @@ A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacio
 
 Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geografico com desenho e calculo de geometrias, mas não se deixe enganar por ser um singelo desenvolvedor javascript, estou disposto a entrar em toda a complexidade de código baixo nível como c++, rust ou a estruturada vida do java. Esses são os meus objetivos no futuro visível.
 
+#### A parte técnica:
+
+Meus trabalhos sempre envolveram metodologias ágeis, com desenvolvimento DDD e hexagonal, respeitando os princípios de código limpo (SOLID, DRY, etc)
+
   <br/>
   
 Se você tem um projeto interessante que esteja precisando de um maluco como eu, me chama, minhas infos estão lááá em baixo.
