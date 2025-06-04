@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     </a>
   </div>
     
-  #### Tecnologias do meu dia-a-dia
+  #### Meu dia-a-dia
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Svelte" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg">
