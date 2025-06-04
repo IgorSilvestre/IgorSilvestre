@@ -20,7 +20,9 @@ A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacio
 
 #### O que imagino para meu futuro:
 
-Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geografico com desenho e calculo de geometrias, mas não se deixe enganar por ser um singelo desenvolvedor javascript, estou disposto a entrar em toda a complexidade de código baixo nível como c++, rust ou a estruturada vida do java. Esses são os meus objetivos no futuro visível.
+Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geografico com desenho e calculo de geometrias, mas não se deixe enganar por ser um singelo desenvolvedor javascript, estou disposto a entrar em toda a complexidade de código baixo nível como c++, rust ou a estruturada vida do java.
+
+Sinto que desenvolvendo projetos grandes com alto nível de complexidade e regras de negócio a liberadade do javascript mesmo com o typescript se torna uma faca de dois gumes, gostaria de focar em uma linguagem com estrutura mais condicionada como o java. Esse é o meu objetivo no futuro visível.
 
 #### A parte técnica:
 
