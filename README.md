@@ -24,7 +24,7 @@ Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geo
 
 #### A parte técnica:
 
-Meus trabalhos sempre envolveram metodologias ágeis, com desenvolvimento DDD e hexagonal, respeitando os princípios de código limpo (SOLID, DRY, etc)
+É comum pra mim o desenvolvimento DDD e hexagonal, respeitando os princípios de código limpo (SOLID, DRY, etc)
 
   <br/>
   
