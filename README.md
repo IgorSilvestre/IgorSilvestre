@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/igorsilvestre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSilvestre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvestre)](https://github.com/anuraghazra/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvestre)]
