@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div style="display: flex;>
   <a href="https://github.com/igorsilvestre">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorsilvestre&show_icons=true&theme=dark"/>
     <div style="display: flex; ">
