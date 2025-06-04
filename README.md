@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorsilvestre&show_icons=true&theme=dark"/>
 </div>
 
-#### Tecnologias do meu dia a dia
+#### Tecnologias do meu dia-a-dia
 <div style="display: flex; ">
     <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Svelte" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" style="margin-right: 10px;">
