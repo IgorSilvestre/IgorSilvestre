@@ -1,7 +1,5 @@
 #### Bem Vindo 👋
 
-#### Quem eu sou:
-
 Sou desenvolvedor _web full-stack_ e eu absolutamente preciso de desafios para me **sentir vivo**. Gosto de aprender coisas fora do comum e que me fazem entender cada vez mais o mundo, principalmente o de tecnologia.
 
 Sou daqueles malucos que se sente realizado batendo a cabeça com coisas completamente fora da minha zona de conforto, sabe?
