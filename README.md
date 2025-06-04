@@ -1,17 +1,17 @@
 #### Bem Vindo 👋
 
-Quem eu sou:
+#### Quem eu sou:
 
 Sou desenvolvedor web full-stack e eu absolutamente preciso de desafios para me sentir vivo. Gosto de aprender coisas fora do comum e que me fazem entender cada vez mais o mundo, principalmente o de tecnologia. Sou daqueles malucos que se sente realizado batendo a cabeça com coisas completamente fora da minha zona de conforto, sabe?
 
 Trabalhei em plataformas de redes sociais conectando pessoas do ramo da engenharia, arquitetura e design, logística digital com mapeamento de clientes e alto volume de produtos, impulsionando o empreendedor brasileiro no e-commerce assim como tecnologia de mapeamento geográfico e soluções de estruturação e controle para o nosso governo, entre muitas outras coisas.
 
-Um desabafo:
+#### Um desabafo:
 
 A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacionamentos, agora nesse mundo do descobrimento e crecimento da era artificial, sinto que isso se torna cada vez mais importante pra mim. Jamais vai receber um email ou comunicação minha escrita por IA, prefiro conversar do que digitar.
 
 
-O que imagino para meu futuro:
+#### O que imagino para meu futuro:
 
 Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geografico com desenho e calculo de geometrias, mas não se deixe enganar por ser um singelo desenvolvedor javascript, estou disposto a entrar em toda a complexidade de código baixo nível como c++, rust ou a estruturada vida do java. Esses são os meus objetivos no futuro visível.
 
