@@ -25,6 +25,8 @@ Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geo
 <br/>
 Se você tem um projeto interessante que esteja precisando de um maluco como eu, me chama, minhas infos estão lááá em baixo.
 <br/>
+<br/>
+
 
 
   <div style="flex: 1; min-width: 300px; margin-left: 20px;">
