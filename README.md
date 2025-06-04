@@ -15,7 +15,7 @@ Trabalhei em
 
 #### Um desabafo:
 
-A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacionamentos, agora nesse crecimento da era artificial, sinto que isso se torna cada vez mais importante pra mim. Jamais vai receber um email ou comunicação minha escrita por IA, prefiro conversar do que digitar.
+A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacionamentos, agora nesse crecimento da era artificial, sinto que isso se torna cada vez mais importante pra mim. Jamais vai receber um email ou comunicação minha escrita por IA. Prefiro conversar do que digitar.
 
 
 #### O que imagino para meu futuro:
