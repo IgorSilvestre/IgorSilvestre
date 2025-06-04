@@ -27,7 +27,7 @@ Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geo
 
 É comum pra mim o desenvolvimento DDD e hexagonal, respeitando os princípios de código limpo (SOLID, DRY, etc), trabalho com metodologia ágil.
 
-Sinto que desenvolvendo projetos grandes com alto nível de complexidade e regras de negócio a liberadade do javascript mesmo com o typescript se torna uma faca de dois gumes, gostaria de focar em uma linguagem com estrutura mais condicionada como o java. Esse é o meu objetivo no futuro visível.
+    Sinto que desenvolvendo projetos grandes com alto nível de complexidade e regras de negócio a liberadade do javascript mesmo com o typescript se torna uma faca de dois gumes, gostaria de focar em uma linguagem com estrutura mais condicionada como o java. Esse é o meu objetivo no futuro visível.
 
   <br/>
   
