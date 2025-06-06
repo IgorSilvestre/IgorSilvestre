@@ -10,24 +10,7 @@ Trabalhei em
 - impulsionando o empreendedor brasileiro no e-commerce;
 - tecnologia de mapeamento geográfico e soluções de estruturação e controle para o nosso governo;
 - entre muitas outras coisas...
-<!--
-#### Um desabafo:
 
-A minha vida é feita de pessoas, isso é o que me faz feliz, amizades e relacionamentos, agora nesse crecimento da era artificial, sinto que isso se torna cada vez mais importante pra mim. Jamais vai receber um email ou comunicação minha escrita por IA. Prefiro conversar do que digitar.
-
-
-#### O que imagino para meu futuro:
-
-Quase tudo que fiz foi na gigante beleza da web, sim, inclusive o mapeamento geografico com desenho e calculo de geometrias, mas não se deixe enganar por ser um singelo desenvolvedor javascript, estou disposto a entrar em toda a complexidade de código baixo nível como c++, rust ou a estruturada vida do java.
-
-
-#### A parte técnica:
-
-É comum pra mim o desenvolvimento DDD e hexagonal, respeitando os princípios de código limpo (SOLID, DRY, etc), trabalho com metodologia ágil.
--->
-  <br/>
-  
-Se você tem um projeto interessante que esteja precisando de um maluco como eu, me chama, minhas infos estão lááá em baixo.
 
   <br/>
   <br/>
