@@ -16,7 +16,8 @@ Trabalhei em
   <br/>
 
 
-
+![](https://raw.githubusercontent.com/igorsilvestre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/igorsilvestre/github-stats/master/generated/overview.svg#gh-light-mode-only)
   <div style="flex: 1; min-width: 300px; margin-left: 20px;">
     <a href="https://github.com/igorsilvestre">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorsilvestre&show_icons=true&theme=dark"/>
